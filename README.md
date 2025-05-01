@@ -1,6 +1,8 @@
 # anime_list
 
-A new Flutter project.
+A new Flutter project -> Praktikum Mobile.
+
+### Andrea Alfian S - 123220078
 
 ## Getting Started
 
